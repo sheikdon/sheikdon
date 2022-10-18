@@ -1,6 +1,9 @@
 <img src="/dino.gif" align="right"  width="36%"/>
 ### Hi there 👋
-
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sheikdonm&show_icons=true&theme=dark"/>
+</details>
 ### 👋 Hi, I’m @Sheikdon
 ### 👀 I’m interested in ... Fullstack Development!
 ### 🌱 I’m currently learning ... HTML/CSS/Javascript and Python!
