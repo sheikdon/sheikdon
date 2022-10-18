@@ -1,4 +1,4 @@
-<img src="/anime-fighting-anime.gif" align="right"  width="36%"/>
+<img src="/dino.gif" align="right"  width="36%"/>
 ### Hi there 👋
 
 ### 👋 Hi, I’m @Sheikdon
