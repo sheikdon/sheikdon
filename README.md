@@ -2,7 +2,7 @@
 ### Hi there 👋
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sheikdonm&show_icons=true&theme=dark"/>
+  <p align="left"> <img src="[![Sheikdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikdon)](https://github.com/sheikdon/github-readme-stats)"/>
 </details>
 ### 👋 Hi, I’m @Sheikdon
 ### 👀 I’m interested in ... Fullstack Development!
