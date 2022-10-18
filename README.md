@@ -5,7 +5,7 @@ Hi 👋 My name is Abdiresac Sheikdon!
 
 Full-Stack Developer
 --------------------
-### You can contact me at [abdiresacs@gmail.com](mailto:abdiresacs@gmail.com)
+### 📧 You can contact me at [abdiresacs@gmail.com](mailto:abdiresacs@gmail.com)
 ### 👀 I’m interested in ... Software Development Roles!
 ### 🧠 I’m currently learning ... React and Python!
 ### 😁 I’m looking to collaborate on ... anything Front-End, Back-end or Full-Stacks Development related!
