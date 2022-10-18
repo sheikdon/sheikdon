@@ -1,6 +1,5 @@
 <img src="/dino.gif" align="right"  width="36%"/>
 ### Hi there 👋
-
 ### 👋 Hi, I’m @Sheikdon
 ### 👀 I’m interested in ... Fullstack Development!
 ### 🌱 I’m currently learning ... HTML/CSS/Javascript and Python!
