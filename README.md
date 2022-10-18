@@ -6,7 +6,7 @@ Hi 👋 My name is Abdiresac Sheikdon!
 Full-Stack Developer
 --------------------
 ### 👀 I’m interested in ... Software Development Roles!
-### 🧠 I’m currently learning ... HTML/CSS/Javascript and Python!
+### 🧠 I’m currently learning ... React and Python!
 ### 😁 I’m looking to collaborate on ... anything Front-End, Back-end or Full-Stacks Development related!
 ### Skills 
 <p align="left">
