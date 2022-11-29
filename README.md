@@ -1,4 +1,6 @@
 <img src="/dino.gif" align="right"  width="36%"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikdon&label=Profile%20views&color=0e75b6&style=flat" alt="sheikdon" /> </p>
+
 
 Hi 👋 My name is Abdiresac Sheikdon!
 ============================
